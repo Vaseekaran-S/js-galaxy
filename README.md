@@ -5,4 +5,4 @@ JS Galaxy is an interstaller hub where javascript projects are twinkle like dist
 ## Explore the Galactic Systems
 
 1. Basics Projects
-   - ![Guess My Number](https://github.com/Vaseekaran-S/js-galaxy)
+   - [Guess My Number](https://github.com/Vaseekaran-S/js-galaxy)
